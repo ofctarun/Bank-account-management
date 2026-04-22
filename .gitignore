@@ -1,5 +1,21 @@
+# Build output
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Node.js (legacy — keeping for reference)
 node_modules/
-npm-debug.log*
-.env
-*.log
+package-lock.json
+
+# OS
 .DS_Store
+Thumbs.db
+
+# Env files
+.env
